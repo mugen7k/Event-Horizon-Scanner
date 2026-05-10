@@ -1,0 +1,9 @@
+venv/
+.idea/
+
+*.pdf
+*.mp3
+*.txt
+
+__pycache__/
+*.pyc
