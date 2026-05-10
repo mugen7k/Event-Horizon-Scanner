@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pytesseract
+customtkinter
+Pillow
+google-genai
+gTTS
+fpdf
+python-dotenv
