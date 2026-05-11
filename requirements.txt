@@ -4,6 +4,5 @@ pytesseract
 customtkinter
 Pillow
 google-genai
-gTTS
 fpdf
-python-dotenv
+edge-tts
