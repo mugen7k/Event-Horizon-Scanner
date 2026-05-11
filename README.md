@@ -1,4 +1,4 @@
-# 📸 Scanner IA Pro
+# 📸 Event Horizon AI Scanner
 
 Um aplicativo de desktop moderno em Python que transforma sua webcam em um scanner de documentos inteligente. Utiliza Visão Computacional para detecção automática de bordas e a Inteligência Artificial do Google Gemini para correção e tradução de textos extraídos por OCR.
 
