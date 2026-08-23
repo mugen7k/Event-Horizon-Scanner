@@ -11,7 +11,7 @@ import asyncio
 import edge_tts
 import tkinter as tk
 
-CHAVE_API = "AIzaSyASGYTZZo6dCVsy1JzfK3XOtwWqNQUeN9Q"
+CHAVE_API = ""
 
 if CHAVE_API == "":
     print("⚠️ ATENÇÃO: Você esqueceu de inserir sua CHAVE_API na linha 13 do código!")
